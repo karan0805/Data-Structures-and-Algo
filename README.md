@@ -1,3 +1,5 @@
 # Data-Structures-and-Algo
 
-This Repository is Open For Contribution
+Repository for Data Structures and ALgorithms
+
+This Repository is **Open For Contribution**
